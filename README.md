@@ -9,7 +9,7 @@
 
 ## 📂 Haftalık Ödev Listesi
 
-- [x] **Hafta 1:** 
+- [x] **Hafta 1:** - [x] [**Hafta 1:** Matematik 1.Hafta.pdf](./Matematik%201.Hafta.pdf)
 - [ ] **Hafta 2:** *(Henüz yüklenmedi)*
 - [ ] **Hafta 3:** *(Henüz yüklenmedi)*
 - [ ] 
